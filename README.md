@@ -30,7 +30,7 @@ https://tech-blog-by-nelson-mmbando.herokuapp.com
 * Running Application 
 
 ## Tech Blog  landing Page Dashboard
-![dashboardimage](Tech-Blog/public/images/dashboardtech.png)
+![dashboardimage](https://user-images.githubusercontent.com/16344305/155254384-174b783a-5b9c-4f17-b766-35947dc861d0.png)
 
 
 ## Tech Blog Signup Page
