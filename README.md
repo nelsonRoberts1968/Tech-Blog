@@ -34,7 +34,7 @@ https://tech-blog-by-nelson-mmbando.herokuapp.com
 
 
 ## Tech Blog Signup Page
-![signupimage](Tech-Blog/public/images/dignuptech.png)
+![signupimage](https://user-images.githubusercontent.com/16344305/155254502-ea4fd10d-be05-4da1-9820-fceb06b71b8e.png)
 
 
 ## Tech Blog Login Page
