@@ -38,7 +38,7 @@ https://tech-blog-by-nelson-mmbando.herokuapp.com
 
 
 ## Tech Blog Login Page
-![loginimage](Tech-Blog/public/images/logintech.png)
+![loginimage](https://user-images.githubusercontent.com/16344305/155254578-c3942b7c-c592-4b13-bbcb-f1542de6cf63.png)
 
 
 ## Developer Contact Info
