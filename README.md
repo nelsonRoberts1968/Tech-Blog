@@ -31,17 +31,17 @@ https://tech-blog-by-nelson-mmbando.herokuapp.com
 
 ## Tech Blog  landing Page Dashboard
 
-![TechBlogDashboard](Tech-Blog/public/images/TechBlogDash.jpg)
+![TechBlogDashboard](Tech-Blog/public/images/techblogdash.jpg)
 
 
 ## Tech Blog Signup Page
 
-![TechBlogSignupPage](Tech-Blog/public/images/TechBlogSignup.jpg)
+![TechBlogSignupPage](Tech-Blog/public/images/techblogsignup.jpg)
 
 
 ## Tech Blog Login Page
 
-![TechBlogLoginPage](Tech-Blog/public/images/TechBlogLogin.jpg)
+![TechBlogLoginPage](Tech-Blog/public/images/techbloglogin.jpg)
 
 
 ## Developer Contact Info
