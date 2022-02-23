@@ -30,22 +30,18 @@ https://tech-blog-by-nelson-mmbando.herokuapp.com
 * Running Application 
 
 ## Tech Blog  landing Page Dashboard
-
-![dashboardimage](techblog/public/images/techblogdash.jpg)
+![dashboardimage](Tech-Blog/public/images/techblogdash.jpg)
 
 
 ## Tech Blog Signup Page
-
-![signupimage](techblog/public/images/techblogsignup.jpg)
+![signupimage](Tech-Blog/public/images/techblogsignup.jpg)
 
 
 ## Tech Blog Login Page
-
-![loginimage](techblog/images/techblogdash.jpg)
+![loginimage](Tech-Blog/images/techblogdash.jpg)
 
 
 ## Developer Contact Info
-
 ### For any questions please use below contact info
 
 Email :  nellyroberts1968@gmail.com
