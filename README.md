@@ -7,7 +7,7 @@ blog posts and comment on other developers’ posts as well. App is following th
 architectural structure, and uses Handlebars.js as the templating language, Sequelize as the ORM, 
 and the express-session npm package for authentication.
 
-## Installation Instruction
+## Installation Instructions
 
 * run npm install to install all necessary packages
 
@@ -29,24 +29,24 @@ https://tech-blog-by-nelson-mmbando.herokuapp.com
 
 * Running Application 
 
-## Tech Blog  landing Page (Dashboard)
+## Tech Blog  landing Page Dashboard
 
-![TechBlogDashboard](Tech-Blog/public/images/TechBlogDash.png)
+![TechBlogDashboard](Tech-Blog/public/images/TechBlogDash.jpg)
 
 
 ## Tech Blog Signup Page
 
-![TechBlogSignupPage](Tech-Blog/public/images/TechBlogSignup.png)
+![TechBlogSignupPage](Tech-Blog/public/images/TechBlogSignup.jpg)
 
 
 ## Tech Blog Login Page
 
-![TechBlogLoginPage](Tech-Blog/public/images/TechBlogLogin.png)
+![TechBlogLoginPage](Tech-Blog/public/images/TechBlogLogin.jpg)
 
 
 ## Developer Contact Info
 
-### For any question please use below cpontact info
+### For any questions please use below contact info
 
 Email :  nellyroberts1968@gmail.com
 
